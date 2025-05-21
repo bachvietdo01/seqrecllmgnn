@@ -1,0 +1,4 @@
+model: SRGNN
+embedding_size: 512
+step: 2
+
