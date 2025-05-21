@@ -16,3 +16,5 @@ To run SR-GNN-SASREC LLM model:
 ```
 sbatch launch_single.sh
 ```
+
+![SEQRECGNNLLM](https://github.com/bachvietdo01/seqrecllmgnn/blob/main/seqrecgnnllm.png?raw=true)
