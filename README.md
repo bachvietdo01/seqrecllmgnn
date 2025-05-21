@@ -17,4 +17,6 @@ To run SR-GNN-SASREC LLM model:
 sbatch launch_single.sh
 ```
 
+Model Neural Architecture Design
+
 ![SEQRECGNNLLM](https://github.com/bachvietdo01/seqrecllmgnn/blob/main/seqrecgnnllm.png?raw=true)
